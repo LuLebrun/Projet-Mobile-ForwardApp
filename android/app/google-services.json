@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608818749333",
+    "project_id": "forwardapp-99a0f",
+    "storage_bucket": "forwardapp-99a0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608818749333:android:6e3292f093357aa385209c",
+        "android_client_info": {
+          "package_name": "com.forward"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBrtYCmPWHJXo0kV38GO9k_fKCNKNNpb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
